@@ -1,0 +1,19 @@
+{ 
+    "tagsList":[
+    {
+        "name": "frontend", 
+        "value":"frontend", 
+        "checked": true
+    },
+    {
+        "name": "java",
+         "value": "java", 
+         "checked":true
+        },
+    {
+        "name": "salesforce", 
+        "value": "salesforce",  
+        "checked":true
+    }
+  ]
+}
